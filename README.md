@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Packo187
 - 👀 I’m interested in Video Games, Coding, Sports
 - 🌱 I’m currently learning how to code from the ground (Python, CS50 usw.)
-- 💞️ I’m looking to collaborate on ...at the moment?!?
+- 💞️ I’m looking to collaborate on ... at the moment, no idea?!?
 - 📫 How to reach me ... coming soon...
 
 <!---
